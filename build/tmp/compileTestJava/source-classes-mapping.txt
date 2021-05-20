@@ -1,0 +1,2 @@
+logic/LogikaTest.java
+ logic.LogikaTest

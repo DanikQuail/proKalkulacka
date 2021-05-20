@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="logic.LogikaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-20T18:27:45" hostname="FLOWYAN-PC" time="0.003">
+  <properties/>
+  <testcase name="testOdecitani" classname="logic.LogikaTest" time="0.001"/>
+  <testcase name="testNasobeni" classname="logic.LogikaTest" time="0.001"/>
+  <testcase name="testMocniny" classname="logic.LogikaTest" time="0.0"/>
+  <testcase name="testDeleni" classname="logic.LogikaTest" time="0.0"/>
+  <testcase name="testScitani" classname="logic.LogikaTest" time="0.001"/>
+  <testcase name="testFaktorialu" classname="logic.LogikaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
